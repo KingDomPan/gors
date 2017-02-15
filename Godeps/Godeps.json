@@ -1,0 +1,32 @@
+{
+	"ImportPath": "github.com/KingDomPan/gors",
+	"GoVersion": "go1.7",
+	"GodepVersion": "v74",
+	"Deps": [
+		{
+			"ImportPath": "github.com/inconshreveable/mousetrap",
+			"Rev": "76626ae9c91c4f2a10f34cad8ce83ea42c93bb75"
+		},
+		{
+			"ImportPath": "github.com/kr/pty",
+			"Comment": "release.r56-28-g5cf931e",
+			"Rev": "5cf931ef8f76dccd0910001d74a58a7fca84a83d"
+		},
+		{
+			"ImportPath": "github.com/spf13/cobra",
+			"Rev": "1dd5ff2e11b6dca62fdcb275eb804b94607d8b06"
+		},
+		{
+			"ImportPath": "github.com/spf13/pflag",
+			"Rev": "51268031d79952516489a9f8aa34e9709b98d946"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/ssh/terminal",
+			"Rev": "8a549a1948fc5271eb24f36dcb0d3b47dec75a16"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "9eef40adf05b951699605195b829612bd7b69952"
+		}
+	]
+}
